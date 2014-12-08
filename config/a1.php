@@ -37,7 +37,5 @@ return array(
 
 	'session'  => array(
 		'type'        => 'native' // native or database
-	),
-
-	'prevent_browser_cache' => TRUE // Enable this to have A1 set the cache-control & pragma headers when a user is logged in (prevents user from using back button after logout)
+	)
 );
