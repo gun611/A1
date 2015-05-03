@@ -3,7 +3,7 @@
   "type": "kohana-module",
   "description": "Authentication for Kohana",
   "keywords": ["kohana", "authentication"],
-  "homepage": "https://github.com/Wouterrr/a1",
+  "homepage": "https://github.com/Wouterrr/A1",
   "license": "BEER-WARE",
   "authors": [
     {
@@ -11,8 +11,8 @@
     }
   ],
   "support": {
-    "issues":   "https://github.com/Wouterrr/a1/issues",
-    "source":   "https://github.com/Wouterrr/a1"
+    "issues":   "https://github.com/Wouterrr/A1/issues",
+    "source":   "https://github.com/Wouterrr/A1"
   },
   "require": {
     "composer/installers": "~1.0",
